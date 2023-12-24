@@ -4,7 +4,7 @@ h1{
     color: brown;
 }
 h3{
-    font-size:50px ;
+    font-size:40px ;
 }
 .orange-hilight{
     color: coral;
@@ -53,7 +53,7 @@ section{
 #full-stack{
     border-left: 7px solid;
     border-image:read;
-    border-image-slice: 1;
+    border-image-slice:1 ;
 }
 footer p{
     text-align: center;
