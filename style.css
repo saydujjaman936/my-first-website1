@@ -1,12 +1,10 @@
-body{
 
-}
 h1{
-    font-size: 60px;
+    font-size: 50px;
     color: brown;
 }
 h3{
-    font-size:50px ;
+    font-size:40px ;
 }
 .orange-hilight{
     color: coral;
@@ -23,7 +21,7 @@ h3{
 }
 .top-banar{
     border: 2px solid red;
-   background-image: url(banr/banar.png);
+   background-image: url("banr/banar.png");
    background-repeat: no-repeat;
 }
 .dream-area{
@@ -38,12 +36,12 @@ section{
     background-color: forestgreen;
     text-decoration: none;
     padding: 10px 10px;
-    border-radius: 5px;
+    border-radius: 2px;
     font-weight: 700;
 }
 .dream-area{
-    background-image: url("webdevelopment/image/image.png");
-    margin-top: 5px;
+    
+    margin-top: 2px;
 }
 .single-Experience{
     box-shadow: 10px 10px 40px;
@@ -55,9 +53,9 @@ section{
 #full-stack{
     border-left: 7px solid;
     border-image:read;
-    border-image-slice: 1;
+    border-image-slice:1 ;
 }
 footer p{
     text-align: center;
-    text: size 20px;
+    
 }
